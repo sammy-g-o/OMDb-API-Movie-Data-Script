@@ -9,7 +9,7 @@ pip install requests
 ## How to Use
 Make sure the requests library is installed.
 Run the script from your terminal:
-python "get data about movie from omdb.txt"
+python omdb.py
 
 
 The script will print the title of each movie found to the console and save a list of movie titles and release years to a file named search-results.txt.
